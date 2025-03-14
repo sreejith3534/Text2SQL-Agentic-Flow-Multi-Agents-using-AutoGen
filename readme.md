@@ -1,5 +1,6 @@
 # Text2SQL Agentic Flow (Multi Agents) using AutoGen
 
+** Make use of "Agent Chat Manager Flow" jupyter notebook file for now, as it is more clear to understand **
 ## Overview
 This project implements an agentic flow using Microsoft AutoGen to convert natural language queries into SQL queries. The agents work collaboratively to understand the query, extract database schema, generate and validate SQL, correct errors if needed, and format the results.
 
